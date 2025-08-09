@@ -2,8 +2,7 @@
 
 **Full Stack Developer**  
 📍 Ankara, Turkey  
-📧 [gecin18@gmail.com](mailto:gecin18@gmail.com)  
-📞 +90 545 744 58 56  
+📧 [gecin18@gmail.com](mailto:gecin18@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/selim-gecin) | [GitHub](https://github.com/hopesf) | [GitLab](https://gitlab.com/selimgecin)
 
 ---
